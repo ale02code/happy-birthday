@@ -9,7 +9,7 @@ button.addEventListener("click", function () {
     function effect() {
       const name = input.value;
       container.style.fontSize = '10', 'px';
-      container.innerHTML = `<h2>Happy Birthday ${name}</h2>`;
+      container.innerHTML = `<h2>Happy Birthday ${name} 🎈</h2>`;
     }
 
     effect()  
